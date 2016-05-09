@@ -1,6 +1,6 @@
 # Kiriban
 
-Checking kiriban.
+Kiriban checker.
 
 ## Installation
 

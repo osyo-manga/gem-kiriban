@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["manga_osyo"]
   spec.email         = ["manga.osyo@gmail.com"]
 
-  spec.summary       = %q{Renban}
-  spec.description   = %q{Renban}
+  spec.summary       = %q{Kiriban checker.}
+  spec.description   = %q{Kiriban checker.}
   spec.homepage      = "https://github.com/osyo-manga/gem-kiriban"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
