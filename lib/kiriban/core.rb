@@ -1,3 +1,6 @@
+require_relative "./refinements"
+
+using Kiriban
 
 module Kiriban
 	def to_kiriban_array
@@ -24,3 +27,4 @@ module Kiriban
 		zeroban? || zoroban? || renban? || miraban?
 	end
 end
+
